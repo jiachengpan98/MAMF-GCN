@@ -6,7 +6,7 @@ Pytorch
 # Data
 In order to use your own data, you have to provide  
 an N by N adjacency matrix (N is the number of nodes),  
-an N by D feature matrix (D is the number of features per node)
+an N by D feature matrix (D is the number of features per node)，
 Multi-scale features at different brain atlases were obtained by DPARSF
 
 ## Training
